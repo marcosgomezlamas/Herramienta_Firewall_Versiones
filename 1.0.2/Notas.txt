@@ -1,0 +1,4 @@
++ Se agrega una ventana para buscar objetos al cliquear (+) en el editor de un grupo, debajo de la lista de miembros.
++ Se permite seleccionar y agregar múltiples miembros con un click.
++ Se permite la selección y el borrado de múltiples miembros de un grupo.
++ Se deshabilita el marcado de selección de objetos en las listview al cliquearlos (ya que sólo se tienen encuenta los objetos chequeados).
