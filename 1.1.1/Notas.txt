@@ -1,2 +1,0 @@
-+ Se permiten múltiples instancias de ventanas de edición y creación de objetos. Para podr comparar información de objetos (de cualquier dominio).
-+ Para controlar es uso de memoria de la GUI, se dividen los miembros de grupos en páginas, con un máximo de 500 miembros por página.

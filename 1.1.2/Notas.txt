@@ -1,1 +1,0 @@
-+ Se corrije problema con la nomenclatura de dominios en mayúsculas.
