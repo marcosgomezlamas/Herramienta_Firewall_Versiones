@@ -1,0 +1,20 @@
++ Para simplificar la referencia a servicios conocidos, se agregan las siguientes palabras clave, que referencian a un objeto puerto.
+
+22: 		(TCP) ssh
+ssh: 		(TCP) ssh
+21: 		(TCP) ftp
+ftp: 		(TCP) ftp
+80: 		(TCP) http
+http: 		(TCP) http
+443: 		(TCP) https
+https: 		(TCP) https
+389: 		(TCP) ldap
+ldap: 		(TCP) ldap
+636: 		(TCP) ldap-ssl
+ldap-ssl: 	(TCP) ldap-ssl
+25: 		(TCP) stmp
+stmp: 		(TCP) stmp
+snmp: 		(UDP) snmp
+UDP/161: 	(UDP) snmp
+TCP/161: 	(TCP) snmp-tcp
+161: 		(TCP) snmp-tcp
