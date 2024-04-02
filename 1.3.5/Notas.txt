@@ -1,0 +1,2 @@
++ Se actualiza el manual de instrucciones.
++ Se actualiza la versión del producto mostrada. Se agrega en el nombre de la ventana principal.
