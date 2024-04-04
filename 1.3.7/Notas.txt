@@ -1,0 +1,1 @@
++ En el editor de objetos, se agrega un botón de copiar que permite copiar la información de todos los miembros del grupo, en formato de texto.
