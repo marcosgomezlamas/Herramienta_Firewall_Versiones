@@ -1,0 +1,2 @@
++ Se configura selección de fila completa en la vista "Vista Previa - Elementos Detectados" para todos los campos.
++ El botón "Aplicar" en el editor de reglas, se habilitará sólo cuando en la configuración de regla actual haya un cambio con respecto a la configuración de la regla seleccionada.
