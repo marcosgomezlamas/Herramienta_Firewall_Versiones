@@ -1,0 +1,2 @@
++ Se quitan los '/32' de las lineas de orígenes y destinos, para evitar que se interpreten hosts como redes.
++ Cuando ocurre un fallo al insertar un objeto, se imprime más información del fallo en el registro de logs.
