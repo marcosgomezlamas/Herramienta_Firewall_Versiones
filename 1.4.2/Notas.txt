@@ -1,0 +1,1 @@
++ Se corrige nomenclatura del tipo de objeto creado que se muestra en logs.
