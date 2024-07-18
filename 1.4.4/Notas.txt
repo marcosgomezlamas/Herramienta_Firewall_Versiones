@@ -1,0 +1,1 @@
++ Se cambia criterio de selección de las líneas correspondientes a un firewall al hacer el tracert.
