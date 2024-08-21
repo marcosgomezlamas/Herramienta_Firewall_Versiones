@@ -1,0 +1,1 @@
++ Se agrega más información de fallo en los casos en que ocurra un problema al obtener datos de layers de un firewall Checkpoint.
