@@ -1,0 +1,1 @@
++ Se soluciona problema de inconsistencia en la obtención de miembros de vlans cuando se repiten miembros en de una vlan en diferentes hilos de ejecución (ocurría aleatoriamente).
