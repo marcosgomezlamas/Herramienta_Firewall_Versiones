@@ -1,3 +1,4 @@
 + Los grupos que no existan en un dominio, se crearán tal como están en el dominio del objeto grupo referenciado, incluyendo a todos sus miembros.
 + Se permite la opción de buscar y crear los objetos utilizados por una regla en el dominio global. Esta opción será la opción por defecto, pero puede deshabilitarse en cada regla individualmente. Si se deshabilita, se buscarán y crearán los objetos en el dominio correspondiente al firewall de la regla.
 + Se utilizará por defecto el prefijo GLB_ para todos los objetos creados en el dominio global. El nombre de dicho prefijo y el nombre del dominio global se puede modificar en la sección de Configuración del programa.
++ Desde el menú principal, se permite la búsqueda, creación y edición de objetos en el dominio global.
