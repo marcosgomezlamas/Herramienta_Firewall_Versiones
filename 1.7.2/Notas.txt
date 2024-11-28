@@ -1,0 +1,1 @@
++ Se agrega en dominio global el prefijo de objetos globales también a los objetos de tipo servicio (puertos).
