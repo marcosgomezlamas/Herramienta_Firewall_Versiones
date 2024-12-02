@@ -1,2 +1,0 @@
-+ Se Agrega por defecto la fecha y el nombre del usuario en los comentarios. Dicha opción puede deshabilitarse en la configuración de la aplicación.
-+ Se evita hacer reasignaciones de global al dominio cuando no se han creado objetos en global.
