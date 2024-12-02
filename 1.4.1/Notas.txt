@@ -1,1 +1,0 @@
-+ Cuando ocurre un fallo al crear una regla, se imprime más información del fallo en el registro de logs.

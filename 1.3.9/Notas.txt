@@ -1,4 +1,0 @@
-+ Se corrigen problemas en obtención de datos de grupos durante la recursión para ciertos casos.
-+ Se corrigen nombres de columnas en ventana de editor de miembros de un grupo de servicios.
-+ Se corrigen problemas puntuales en la carga de datos de objetos de red de una vlan en listview de la vista "Vista Previa: elementos detectados".
-+ Se agrega columna Dominio en el listview de Firewalls de la vista "Vista Previa: elementos detectados".

@@ -1,2 +1,0 @@
-+ Se agrega opción de habilitar/deshabilitar las reglas a ser creadas en el Editor de reglas.
-+ Se aplica el filtro de sección también al hacer click en el campo filtro.

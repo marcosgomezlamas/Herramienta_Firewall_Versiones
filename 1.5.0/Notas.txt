@@ -1,2 +1,0 @@
-+ Se corrige problemas en diseño de reglas cuando un grupo tiene varios grupos hijos.
-+ Se agrega filtro de sección en la ventana de edición de reglas (para buscar secciones más rápido).

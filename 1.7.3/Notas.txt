@@ -1,0 +1,5 @@
++ Se permite referenciar a una red de la forma: "vlan 123 E-2978", "vlan 123 3c" (3c equivale a E-3600 y jc equivale a E-2978), "vlan 123" (por defecto será E-3600).
++ En el menú principal se agrega botón revisar para comprobar y ver direccionamiento de las vlans escritas con la nomenclatura mencionada.
++ Se soluciona problemas con replicación de grupos de servicios en el dominio global.
++ Se soluciona problemas aleatorios en la carga de datos de secciones de firewall en el Editor de reglas.
+

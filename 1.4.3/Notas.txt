@@ -1,1 +1,0 @@
-+ Se corrige nomenclatura del puerto SMTP (25).
