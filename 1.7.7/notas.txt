@@ -1,0 +1,1 @@
++ Se corrige nuevamente la creación de grupos de puertos en dominios diferentes al del objeto grupo original. El error era que no se agregaban los miembros al grupo creado.
