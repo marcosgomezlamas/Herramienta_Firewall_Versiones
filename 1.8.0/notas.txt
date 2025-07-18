@@ -1,1 +1,0 @@
-+ Se cambia la forma en la que se envían los comandos a la MDS: Se utiliza una sesión por usuario por dominio y se reutilizan las sesiones hasta salir del programa.
